@@ -1,0 +1,21 @@
+{
+  "name": "calculator_anwar",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "bin": "./index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.15.11"
+  },
+  "dependencies": {
+    "inquirer": "^9.1.5"
+  }
+}
