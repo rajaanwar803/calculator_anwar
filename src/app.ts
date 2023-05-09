@@ -79,11 +79,6 @@ inquirer.prompt([
 
 
 
-
-
-
-
-
 // let firstNum = parseFloat(input.num1)
 // let secondNum = parseFloat(input.num2)
 // let result
